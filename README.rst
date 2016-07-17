@@ -25,3 +25,8 @@ For implementation, some specification should be discussed and adjusted:
 
 - Require solutions (eg: basic editor) to help setting, setting sections,
   draw table, more default styles, and so on
+
+
+.. image:: https://badges.gitter.im/apua/reStructuredText.svg
+   :alt: Join the chat at https://gitter.im/apua/reStructuredText
+   :target: https://gitter.im/apua/reStructuredText?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
